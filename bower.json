@@ -1,0 +1,17 @@
+{
+  "name": "social",
+  "homepage": "https://github.com/arpitmittal04/social",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.100.2"
+  }
+}
